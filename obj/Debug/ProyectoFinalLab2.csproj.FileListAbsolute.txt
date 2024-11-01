@@ -1,0 +1,118 @@
+D:\Joaquin\Archivos de proyectos\ProyectoFinalLab2\bin\Debug\ProyectoFinalLab2.exe.config
+D:\Joaquin\Archivos de proyectos\ProyectoFinalLab2\bin\Debug\ProyectoFinalLab2.exe
+D:\Joaquin\Archivos de proyectos\ProyectoFinalLab2\bin\Debug\ProyectoFinalLab2.pdb
+D:\Joaquin\Archivos de proyectos\ProyectoFinalLab2\obj\Debug\ProyectoFinalLab2.csproj.AssemblyReference.cache
+D:\Joaquin\Archivos de proyectos\ProyectoFinalLab2\obj\Debug\ProyectoFinalLab2.csproj.SuggestedBindingRedirects.cache
+D:\Joaquin\Archivos de proyectos\ProyectoFinalLab2\obj\Debug\ProyectoFinalLab2.Properties.Resources.resources
+D:\Joaquin\Archivos de proyectos\ProyectoFinalLab2\obj\Debug\ProyectoFinalLab2.csproj.GenerateResource.cache
+D:\Joaquin\Archivos de proyectos\ProyectoFinalLab2\obj\Debug\ProyectoFinalLab2.csproj.CoreCompileInputs.cache
+D:\Joaquin\Archivos de proyectos\ProyectoFinalLab2\obj\Debug\ProyectoFinalLab2.exe
+D:\Joaquin\Archivos de proyectos\ProyectoFinalLab2\obj\Debug\ProyectoFinalLab2.pdb
+D:\Joaquin\Archivos de proyectos\ProyectoFinalLab2\obj\Debug\ProyectoFinalLab2.Capa_presentacion.CRUD.resources
+D:\Joaquin\Archivos de proyectos\ProyectoFinalLab2\obj\Debug\ProyectoFinalLab2.Capa_presentacion.NuevaVenta.resources
+D:\Joaquin\Archivos de proyectos\ProyectoFinalLab2\obj\Debug\ProyectoFinalLab2.Login.resources
+D:\Joaquin\Archivos de proyectos\ProyectoFinalLab2\obj\Debug\ProyectoFinalLab2.Capa_presentacion.MenuPrincipal.resources
+D:\Joaquin\Archivos de proyectos\ProyectoFinalLab2\obj\Debug\ProyectoFinalLab2.Capa_presentacion.Alta_de_usuario.resources
+D:\ProyectoFinalLab2\bin\Debug\ProyectoFinalLab2.exe.config
+D:\ProyectoFinalLab2\bin\Debug\ProyectoFinalLab2.exe
+D:\ProyectoFinalLab2\bin\Debug\ProyectoFinalLab2.pdb
+D:\ProyectoFinalLab2\obj\Debug\ProyectoFinalLab2.csproj.AssemblyReference.cache
+D:\ProyectoFinalLab2\obj\Debug\ProyectoFinalLab2.Capa_presentacion.Alta_de_usuario.resources
+D:\ProyectoFinalLab2\obj\Debug\ProyectoFinalLab2.Capa_presentacion.CRUD.resources
+D:\ProyectoFinalLab2\obj\Debug\ProyectoFinalLab2.Login.resources
+D:\ProyectoFinalLab2\obj\Debug\ProyectoFinalLab2.Capa_presentacion.MenuPrincipal.resources
+D:\ProyectoFinalLab2\obj\Debug\ProyectoFinalLab2.Capa_presentacion.NuevaVenta.resources
+D:\ProyectoFinalLab2\obj\Debug\ProyectoFinalLab2.Properties.Resources.resources
+D:\ProyectoFinalLab2\obj\Debug\ProyectoFinalLab2.csproj.GenerateResource.cache
+D:\ProyectoFinalLab2\obj\Debug\ProyectoFinalLab2.csproj.CoreCompileInputs.cache
+D:\ProyectoFinalLab2\obj\Debug\ProyectoFinalLab2.exe
+D:\ProyectoFinalLab2\obj\Debug\ProyectoFinalLab2.pdb
+C:\Users\BGH\Downloads\ProyectoFinalLab2 (1)\ProyectoFinalLab2\bin\Debug\ProyectoFinalLab2.exe.config
+C:\Users\BGH\Downloads\ProyectoFinalLab2 (1)\ProyectoFinalLab2\bin\Debug\ProyectoFinalLab2.exe
+C:\Users\BGH\Downloads\ProyectoFinalLab2 (1)\ProyectoFinalLab2\bin\Debug\ProyectoFinalLab2.pdb
+C:\Users\BGH\Downloads\ProyectoFinalLab2 (1)\ProyectoFinalLab2\obj\Debug\ProyectoFinalLab2.csproj.AssemblyReference.cache
+C:\Users\BGH\Downloads\ProyectoFinalLab2 (1)\ProyectoFinalLab2\obj\Debug\ProyectoFinalLab2.csproj.SuggestedBindingRedirects.cache
+C:\Users\BGH\Downloads\ProyectoFinalLab2 (1)\ProyectoFinalLab2\obj\Debug\ProyectoFinalLab2.Capa_presentacion.Alta_de_usuario.resources
+C:\Users\BGH\Downloads\ProyectoFinalLab2 (1)\ProyectoFinalLab2\obj\Debug\ProyectoFinalLab2.Capa_presentacion.CRUD.resources
+C:\Users\BGH\Downloads\ProyectoFinalLab2 (1)\ProyectoFinalLab2\obj\Debug\ProyectoFinalLab2.Login.resources
+C:\Users\BGH\Downloads\ProyectoFinalLab2 (1)\ProyectoFinalLab2\obj\Debug\ProyectoFinalLab2.Capa_presentacion.MenuPrincipal.resources
+C:\Users\BGH\Downloads\ProyectoFinalLab2 (1)\ProyectoFinalLab2\obj\Debug\ProyectoFinalLab2.Capa_presentacion.NuevaVenta.resources
+C:\Users\BGH\Downloads\ProyectoFinalLab2 (1)\ProyectoFinalLab2\obj\Debug\ProyectoFinalLab2.Properties.Resources.resources
+C:\Users\BGH\Downloads\ProyectoFinalLab2 (1)\ProyectoFinalLab2\obj\Debug\ProyectoFinalLab2.csproj.GenerateResource.cache
+C:\Users\BGH\Downloads\ProyectoFinalLab2 (1)\ProyectoFinalLab2\obj\Debug\ProyectoFinalLab2.csproj.CoreCompileInputs.cache
+C:\Users\BGH\Downloads\ProyectoFinalLab2 (1)\ProyectoFinalLab2\obj\Debug\ProyectoFinalLab2.exe
+C:\Users\BGH\Downloads\ProyectoFinalLab2 (1)\ProyectoFinalLab2\obj\Debug\ProyectoFinalLab2.pdb
+D:\Joaquin\Archivos de proyectos\ProyectoFinalLab2 (1)\ProyectoFinalLab2\obj\Debug\ProyectoFinalLab2.csproj.AssemblyReference.cache
+D:\Joaquin\Archivos de proyectos\ProyectoFinalLab2 (1)\ProyectoFinalLab2\obj\Debug\ProyectoFinalLab2.csproj.SuggestedBindingRedirects.cache
+D:\Joaquin\Archivos de proyectos\ProyectoFinalLab2 (1)\ProyectoFinalLab2\obj\Debug\ProyectoFinalLab2.Capa_presentacion.Alta_de_usuario.resources
+D:\Joaquin\Archivos de proyectos\ProyectoFinalLab2 (1)\ProyectoFinalLab2\obj\Debug\ProyectoFinalLab2.Capa_presentacion.CRUD.resources
+D:\Joaquin\Archivos de proyectos\ProyectoFinalLab2 (1)\ProyectoFinalLab2\obj\Debug\ProyectoFinalLab2.Login.resources
+D:\Joaquin\Archivos de proyectos\ProyectoFinalLab2 (1)\ProyectoFinalLab2\obj\Debug\ProyectoFinalLab2.Capa_presentacion.MenuPrincipal.resources
+D:\Joaquin\Archivos de proyectos\ProyectoFinalLab2 (1)\ProyectoFinalLab2\obj\Debug\ProyectoFinalLab2.Capa_presentacion.NuevaVenta.resources
+D:\Joaquin\Archivos de proyectos\ProyectoFinalLab2 (1)\ProyectoFinalLab2\obj\Debug\ProyectoFinalLab2.Properties.Resources.resources
+D:\Joaquin\Archivos de proyectos\ProyectoFinalLab2 (1)\ProyectoFinalLab2\obj\Debug\ProyectoFinalLab2.csproj.GenerateResource.cache
+D:\Joaquin\Archivos de proyectos\ProyectoFinalLab2 (1)\ProyectoFinalLab2\obj\Debug\ProyectoFinalLab2.csproj.CoreCompileInputs.cache
+D:\Joaquin\Archivos de proyectos\ProyectoFinalLab2 (1)\ProyectoFinalLab2\obj\Debug\ProyectoFinalLab2.exe
+D:\Joaquin\Archivos de proyectos\ProyectoFinalLab2 (1)\ProyectoFinalLab2\obj\Debug\ProyectoFinalLab2.pdb
+D:\Joaquin\Archivos de proyectos\ProyectoFinalLab2 (1)\ProyectoFinalLab2\bin\Debug\ProyectoFinalLab2.exe.config
+D:\Joaquin\Archivos de proyectos\ProyectoFinalLab2 (1)\ProyectoFinalLab2\bin\Debug\ProyectoFinalLab2.exe
+D:\Joaquin\Archivos de proyectos\ProyectoFinalLab2 (1)\ProyectoFinalLab2\bin\Debug\ProyectoFinalLab2.pdb
+D:\Joaquin\Archivos de proyectos\ProyectoFinalLab2 - Alvarez Joaquín Exequiel - Albarracín Sandoval Axel - Aguirre Bruno - Bazan Santiago - Hernandez Ruben -  Ayala Mariano\bin\Debug\ProyectoFinalLab2.exe.config
+D:\Joaquin\Archivos de proyectos\ProyectoFinalLab2 - Alvarez Joaquín Exequiel - Albarracín Sandoval Axel - Aguirre Bruno - Bazan Santiago - Hernandez Ruben -  Ayala Mariano\bin\Debug\ProyectoFinalLab2.exe
+D:\Joaquin\Archivos de proyectos\ProyectoFinalLab2 - Alvarez Joaquín Exequiel - Albarracín Sandoval Axel - Aguirre Bruno - Bazan Santiago - Hernandez Ruben -  Ayala Mariano\bin\Debug\ProyectoFinalLab2.pdb
+D:\Joaquin\Archivos de proyectos\ProyectoFinalLab2 - Alvarez Joaquín Exequiel - Albarracín Sandoval Axel - Aguirre Bruno - Bazan Santiago - Hernandez Ruben -  Ayala Mariano\obj\Debug\ProyectoFinalLab2.csproj.AssemblyReference.cache
+D:\Joaquin\Archivos de proyectos\ProyectoFinalLab2 - Alvarez Joaquín Exequiel - Albarracín Sandoval Axel - Aguirre Bruno - Bazan Santiago - Hernandez Ruben -  Ayala Mariano\obj\Debug\ProyectoFinalLab2.csproj.SuggestedBindingRedirects.cache
+D:\Joaquin\Archivos de proyectos\ProyectoFinalLab2 - Alvarez Joaquín Exequiel - Albarracín Sandoval Axel - Aguirre Bruno - Bazan Santiago - Hernandez Ruben -  Ayala Mariano\obj\Debug\ProyectoFinalLab2.Capa_presentacion.Alta_de_usuario.resources
+D:\Joaquin\Archivos de proyectos\ProyectoFinalLab2 - Alvarez Joaquín Exequiel - Albarracín Sandoval Axel - Aguirre Bruno - Bazan Santiago - Hernandez Ruben -  Ayala Mariano\obj\Debug\ProyectoFinalLab2.Capa_presentacion.CRUD.resources
+D:\Joaquin\Archivos de proyectos\ProyectoFinalLab2 - Alvarez Joaquín Exequiel - Albarracín Sandoval Axel - Aguirre Bruno - Bazan Santiago - Hernandez Ruben -  Ayala Mariano\obj\Debug\ProyectoFinalLab2.Login.resources
+D:\Joaquin\Archivos de proyectos\ProyectoFinalLab2 - Alvarez Joaquín Exequiel - Albarracín Sandoval Axel - Aguirre Bruno - Bazan Santiago - Hernandez Ruben -  Ayala Mariano\obj\Debug\ProyectoFinalLab2.Capa_presentacion.MenuPrincipal.resources
+D:\Joaquin\Archivos de proyectos\ProyectoFinalLab2 - Alvarez Joaquín Exequiel - Albarracín Sandoval Axel - Aguirre Bruno - Bazan Santiago - Hernandez Ruben -  Ayala Mariano\obj\Debug\ProyectoFinalLab2.Capa_presentacion.NuevaVenta.resources
+D:\Joaquin\Archivos de proyectos\ProyectoFinalLab2 - Alvarez Joaquín Exequiel - Albarracín Sandoval Axel - Aguirre Bruno - Bazan Santiago - Hernandez Ruben -  Ayala Mariano\obj\Debug\ProyectoFinalLab2.Properties.Resources.resources
+D:\Joaquin\Archivos de proyectos\ProyectoFinalLab2 - Alvarez Joaquín Exequiel - Albarracín Sandoval Axel - Aguirre Bruno - Bazan Santiago - Hernandez Ruben -  Ayala Mariano\obj\Debug\ProyectoFinalLab2.csproj.GenerateResource.cache
+D:\Joaquin\Archivos de proyectos\ProyectoFinalLab2 - Alvarez Joaquín Exequiel - Albarracín Sandoval Axel - Aguirre Bruno - Bazan Santiago - Hernandez Ruben -  Ayala Mariano\obj\Debug\ProyectoFinalLab2.csproj.CoreCompileInputs.cache
+D:\Joaquin\Archivos de proyectos\ProyectoFinalLab2 - Alvarez Joaquín Exequiel - Albarracín Sandoval Axel - Aguirre Bruno - Bazan Santiago - Hernandez Ruben -  Ayala Mariano\obj\Debug\ProyectoFinalLab2.exe
+D:\Joaquin\Archivos de proyectos\ProyectoFinalLab2 - Alvarez Joaquín Exequiel - Albarracín Sandoval Axel - Aguirre Bruno - Bazan Santiago - Hernandez Ruben -  Ayala Mariano\obj\Debug\ProyectoFinalLab2.pdb
+D:\Joaquin\Programacion - Facu\Org Contable\ProyectoFinalLab2 - Alvarez Joaquín Exequiel - Bazan Santiago - Bordallo Juan Pablo - Hernandez Ruben - Mendoza Lucas - Yraidini Tomás\bin\Debug\ProyectoFinalLab2.exe.config
+D:\Joaquin\Programacion - Facu\Org Contable\ProyectoFinalLab2 - Alvarez Joaquín Exequiel - Bazan Santiago - Bordallo Juan Pablo - Hernandez Ruben - Mendoza Lucas - Yraidini Tomás\bin\Debug\ProyectoFinalLab2.exe
+D:\Joaquin\Programacion - Facu\Org Contable\ProyectoFinalLab2 - Alvarez Joaquín Exequiel - Bazan Santiago - Bordallo Juan Pablo - Hernandez Ruben - Mendoza Lucas - Yraidini Tomás\bin\Debug\ProyectoFinalLab2.pdb
+D:\Joaquin\Programacion - Facu\Org Contable\ProyectoFinalLab2 - Alvarez Joaquín Exequiel - Bazan Santiago - Bordallo Juan Pablo - Hernandez Ruben - Mendoza Lucas - Yraidini Tomás\obj\Debug\ProyectoFinalLab2.csproj.AssemblyReference.cache
+D:\Joaquin\Programacion - Facu\Org Contable\ProyectoFinalLab2 - Alvarez Joaquín Exequiel - Bazan Santiago - Bordallo Juan Pablo - Hernandez Ruben - Mendoza Lucas - Yraidini Tomás\obj\Debug\ProyectoFinalLab2.csproj.SuggestedBindingRedirects.cache
+D:\Joaquin\Programacion - Facu\Org Contable\ProyectoFinalLab2 - Alvarez Joaquín Exequiel - Bazan Santiago - Bordallo Juan Pablo - Hernandez Ruben - Mendoza Lucas - Yraidini Tomás\obj\Debug\ProyectoFinalLab2.Capa_presentacion.Alta_de_usuario.resources
+D:\Joaquin\Programacion - Facu\Org Contable\ProyectoFinalLab2 - Alvarez Joaquín Exequiel - Bazan Santiago - Bordallo Juan Pablo - Hernandez Ruben - Mendoza Lucas - Yraidini Tomás\obj\Debug\ProyectoFinalLab2.Capa_presentacion.CRUD.resources
+D:\Joaquin\Programacion - Facu\Org Contable\ProyectoFinalLab2 - Alvarez Joaquín Exequiel - Bazan Santiago - Bordallo Juan Pablo - Hernandez Ruben - Mendoza Lucas - Yraidini Tomás\obj\Debug\ProyectoFinalLab2.Login.resources
+D:\Joaquin\Programacion - Facu\Org Contable\ProyectoFinalLab2 - Alvarez Joaquín Exequiel - Bazan Santiago - Bordallo Juan Pablo - Hernandez Ruben - Mendoza Lucas - Yraidini Tomás\obj\Debug\ProyectoFinalLab2.Capa_presentacion.MenuPrincipal.resources
+D:\Joaquin\Programacion - Facu\Org Contable\ProyectoFinalLab2 - Alvarez Joaquín Exequiel - Bazan Santiago - Bordallo Juan Pablo - Hernandez Ruben - Mendoza Lucas - Yraidini Tomás\obj\Debug\ProyectoFinalLab2.Capa_presentacion.NuevaVenta.resources
+D:\Joaquin\Programacion - Facu\Org Contable\ProyectoFinalLab2 - Alvarez Joaquín Exequiel - Bazan Santiago - Bordallo Juan Pablo - Hernandez Ruben - Mendoza Lucas - Yraidini Tomás\obj\Debug\ProyectoFinalLab2.Properties.Resources.resources
+D:\Joaquin\Programacion - Facu\Org Contable\ProyectoFinalLab2 - Alvarez Joaquín Exequiel - Bazan Santiago - Bordallo Juan Pablo - Hernandez Ruben - Mendoza Lucas - Yraidini Tomás\obj\Debug\ProyectoFinalLab2.csproj.GenerateResource.cache
+D:\Joaquin\Programacion - Facu\Org Contable\ProyectoFinalLab2 - Alvarez Joaquín Exequiel - Bazan Santiago - Bordallo Juan Pablo - Hernandez Ruben - Mendoza Lucas - Yraidini Tomás\obj\Debug\ProyectoFinalLab2.csproj.CoreCompileInputs.cache
+D:\Joaquin\Programacion - Facu\Org Contable\ProyectoFinalLab2 - Alvarez Joaquín Exequiel - Bazan Santiago - Bordallo Juan Pablo - Hernandez Ruben - Mendoza Lucas - Yraidini Tomás\obj\Debug\ProyectoFinalLab2.exe
+D:\Joaquin\Programacion - Facu\Org Contable\ProyectoFinalLab2 - Alvarez Joaquín Exequiel - Bazan Santiago - Bordallo Juan Pablo - Hernandez Ruben - Mendoza Lucas - Yraidini Tomás\obj\Debug\ProyectoFinalLab2.pdb
+D:\Joaquin\Programacion - Facu\Org Contable\ProyectoFinal - Alvarez Joaquín Exequiel - Ayala Mariano - Bazan Santiago - Bordallo Juan Pablo - Hernandez Ruben - Mendoza Lucas - Yraidini Tomás\bin\Debug\ProyectoFinalLab2.exe.config
+D:\Joaquin\Programacion - Facu\Org Contable\ProyectoFinal - Alvarez Joaquín Exequiel - Ayala Mariano - Bazan Santiago - Bordallo Juan Pablo - Hernandez Ruben - Mendoza Lucas - Yraidini Tomás\bin\Debug\ProyectoFinalLab2.exe
+D:\Joaquin\Programacion - Facu\Org Contable\ProyectoFinal - Alvarez Joaquín Exequiel - Ayala Mariano - Bazan Santiago - Bordallo Juan Pablo - Hernandez Ruben - Mendoza Lucas - Yraidini Tomás\bin\Debug\ProyectoFinalLab2.pdb
+D:\Joaquin\Programacion - Facu\Org Contable\ProyectoFinal - Alvarez Joaquín Exequiel - Ayala Mariano - Bazan Santiago - Bordallo Juan Pablo - Hernandez Ruben - Mendoza Lucas - Yraidini Tomás\obj\Debug\ProyectoFinalLab2.csproj.AssemblyReference.cache
+D:\Joaquin\Programacion - Facu\Org Contable\ProyectoFinal - Alvarez Joaquín Exequiel - Ayala Mariano - Bazan Santiago - Bordallo Juan Pablo - Hernandez Ruben - Mendoza Lucas - Yraidini Tomás\obj\Debug\ProyectoFinalLab2.csproj.SuggestedBindingRedirects.cache
+D:\Joaquin\Programacion - Facu\Org Contable\ProyectoFinal - Alvarez Joaquín Exequiel - Ayala Mariano - Bazan Santiago - Bordallo Juan Pablo - Hernandez Ruben - Mendoza Lucas - Yraidini Tomás\obj\Debug\ProyectoFinalLab2.Capa_presentacion.Alta_de_usuario.resources
+D:\Joaquin\Programacion - Facu\Org Contable\ProyectoFinal - Alvarez Joaquín Exequiel - Ayala Mariano - Bazan Santiago - Bordallo Juan Pablo - Hernandez Ruben - Mendoza Lucas - Yraidini Tomás\obj\Debug\ProyectoFinalLab2.Capa_presentacion.CRUD.resources
+D:\Joaquin\Programacion - Facu\Org Contable\ProyectoFinal - Alvarez Joaquín Exequiel - Ayala Mariano - Bazan Santiago - Bordallo Juan Pablo - Hernandez Ruben - Mendoza Lucas - Yraidini Tomás\obj\Debug\ProyectoFinalLab2.Login.resources
+D:\Joaquin\Programacion - Facu\Org Contable\ProyectoFinal - Alvarez Joaquín Exequiel - Ayala Mariano - Bazan Santiago - Bordallo Juan Pablo - Hernandez Ruben - Mendoza Lucas - Yraidini Tomás\obj\Debug\ProyectoFinalLab2.Capa_presentacion.MenuPrincipal.resources
+D:\Joaquin\Programacion - Facu\Org Contable\ProyectoFinal - Alvarez Joaquín Exequiel - Ayala Mariano - Bazan Santiago - Bordallo Juan Pablo - Hernandez Ruben - Mendoza Lucas - Yraidini Tomás\obj\Debug\ProyectoFinalLab2.Capa_presentacion.NuevaVenta.resources
+D:\Joaquin\Programacion - Facu\Org Contable\ProyectoFinal - Alvarez Joaquín Exequiel - Ayala Mariano - Bazan Santiago - Bordallo Juan Pablo - Hernandez Ruben - Mendoza Lucas - Yraidini Tomás\obj\Debug\ProyectoFinalLab2.Properties.Resources.resources
+D:\Joaquin\Programacion - Facu\Org Contable\ProyectoFinal - Alvarez Joaquín Exequiel - Ayala Mariano - Bazan Santiago - Bordallo Juan Pablo - Hernandez Ruben - Mendoza Lucas - Yraidini Tomás\obj\Debug\ProyectoFinalLab2.csproj.GenerateResource.cache
+D:\Joaquin\Programacion - Facu\Org Contable\ProyectoFinal - Alvarez Joaquín Exequiel - Ayala Mariano - Bazan Santiago - Bordallo Juan Pablo - Hernandez Ruben - Mendoza Lucas - Yraidini Tomás\obj\Debug\ProyectoFinalLab2.csproj.CoreCompileInputs.cache
+D:\Joaquin\Programacion - Facu\Org Contable\ProyectoFinal - Alvarez Joaquín Exequiel - Ayala Mariano - Bazan Santiago - Bordallo Juan Pablo - Hernandez Ruben - Mendoza Lucas - Yraidini Tomás\obj\Debug\ProyectoFinalLab2.exe
+D:\Joaquin\Programacion - Facu\Org Contable\ProyectoFinal - Alvarez Joaquín Exequiel - Ayala Mariano - Bazan Santiago - Bordallo Juan Pablo - Hernandez Ruben - Mendoza Lucas - Yraidini Tomás\obj\Debug\ProyectoFinalLab2.pdb
+C:\Users\facub\repos\ProyectoFinal\bin\Debug\ProyectoFinalLab2.exe.config
+C:\Users\facub\repos\ProyectoFinal\bin\Debug\ProyectoFinalLab2.exe
+C:\Users\facub\repos\ProyectoFinal\bin\Debug\ProyectoFinalLab2.pdb
+C:\Users\facub\repos\ProyectoFinal\obj\Debug\ProyectoFinalLab2.csproj.AssemblyReference.cache
+C:\Users\facub\repos\ProyectoFinal\obj\Debug\ProyectoFinalLab2.Capa_presentacion.Alta_de_usuario.resources
+C:\Users\facub\repos\ProyectoFinal\obj\Debug\ProyectoFinalLab2.Capa_presentacion.CRUD.resources
+C:\Users\facub\repos\ProyectoFinal\obj\Debug\ProyectoFinalLab2.Login.resources
+C:\Users\facub\repos\ProyectoFinal\obj\Debug\ProyectoFinalLab2.Capa_presentacion.MenuPrincipal.resources
+C:\Users\facub\repos\ProyectoFinal\obj\Debug\ProyectoFinalLab2.Capa_presentacion.NuevaVenta.resources
+C:\Users\facub\repos\ProyectoFinal\obj\Debug\ProyectoFinalLab2.Properties.Resources.resources
+C:\Users\facub\repos\ProyectoFinal\obj\Debug\ProyectoFinalLab2.csproj.GenerateResource.cache
+C:\Users\facub\repos\ProyectoFinal\obj\Debug\ProyectoFinalLab2.csproj.CoreCompileInputs.cache
+C:\Users\facub\repos\ProyectoFinal\obj\Debug\ProyectoFinalLab2.exe
+C:\Users\facub\repos\ProyectoFinal\obj\Debug\ProyectoFinalLab2.pdb
